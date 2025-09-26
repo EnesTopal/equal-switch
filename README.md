@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<!-- Add your screenshots here -->
-<!-- Example: ![EqualSwitch Demo](docs/screenshots/demo.gif) -->
-<!-- Example: ![EqualSwitch Comparison](docs/screenshots/comparison.png) -->
+
 
 [![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)](https://github.com/EnesTopal/equal-switch/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -17,7 +15,7 @@
 
 ## 📸 Screenshots
 
-> (Under construction - screenshots will be added soon)
+![EqualSwitch Demo](screenshots/general.gif) ![EqualSwitch Demo](screenshots/drag.gif) 
 
 
 ## 🎯 Why EqualSwitch?
@@ -356,6 +354,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## 👨‍💻 Author
 
